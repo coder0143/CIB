@@ -7,5 +7,3 @@ matplotlib
 scikit-learn
 imbalanced-learn
 lightgbm
-warnings
-openpyxl
